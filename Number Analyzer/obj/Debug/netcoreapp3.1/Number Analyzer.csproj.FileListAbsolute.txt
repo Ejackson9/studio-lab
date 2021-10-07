@@ -1,0 +1,14 @@
+C:\Visual Studio Labs\Number Analyzer\Number Analyzer\bin\Debug\netcoreapp3.1\Number Analyzer.exe
+C:\Visual Studio Labs\Number Analyzer\Number Analyzer\bin\Debug\netcoreapp3.1\Number Analyzer.deps.json
+C:\Visual Studio Labs\Number Analyzer\Number Analyzer\bin\Debug\netcoreapp3.1\Number Analyzer.runtimeconfig.json
+C:\Visual Studio Labs\Number Analyzer\Number Analyzer\bin\Debug\netcoreapp3.1\Number Analyzer.runtimeconfig.dev.json
+C:\Visual Studio Labs\Number Analyzer\Number Analyzer\bin\Debug\netcoreapp3.1\Number Analyzer.dll
+C:\Visual Studio Labs\Number Analyzer\Number Analyzer\bin\Debug\netcoreapp3.1\Number Analyzer.pdb
+C:\Visual Studio Labs\Number Analyzer\Number Analyzer\obj\Debug\netcoreapp3.1\Number Analyzer.csproj.AssemblyReference.cache
+C:\Visual Studio Labs\Number Analyzer\Number Analyzer\obj\Debug\netcoreapp3.1\Number Analyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio Labs\Number Analyzer\Number Analyzer\obj\Debug\netcoreapp3.1\Number Analyzer.AssemblyInfoInputs.cache
+C:\Visual Studio Labs\Number Analyzer\Number Analyzer\obj\Debug\netcoreapp3.1\Number Analyzer.AssemblyInfo.cs
+C:\Visual Studio Labs\Number Analyzer\Number Analyzer\obj\Debug\netcoreapp3.1\Number Analyzer.csproj.CoreCompileInputs.cache
+C:\Visual Studio Labs\Number Analyzer\Number Analyzer\obj\Debug\netcoreapp3.1\Number Analyzer.dll
+C:\Visual Studio Labs\Number Analyzer\Number Analyzer\obj\Debug\netcoreapp3.1\Number Analyzer.pdb
+C:\Visual Studio Labs\Number Analyzer\Number Analyzer\obj\Debug\netcoreapp3.1\Number Analyzer.genruntimeconfig.cache
